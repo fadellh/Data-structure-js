@@ -8,3 +8,12 @@ Cara membuat array dan object
 // expected { 'nama': 'fadel' }
     arrkos[1] = ('fadel')
 // expected [ <1 empty item>, 'fadel' ]
+
+Memanggil suatu object
+
+    frequencyCounter = {}
+    frequencyCounter1['nama'] = ('fadel') --> membuat object 
+    frequencyCounter1['nama'] = ('lia') --> membuat object cuma dipangil terus di replace
+
+  console.log(frequencyCounter1['nama'])
+// expected 'lia'
