@@ -1,0 +1,10 @@
+Frequency Counter 
+
+Cara membuat array dan object
+
+    frequencyCounter1[0] = ('fadel')
+// expected { '0': 'fadel' }
+    frequencyCounter1['nama'] = ('fadel')
+// expected { 'nama': 'fadel' }
+    arrkos[1] = ('fadel')
+// expected [ <1 empty item>, 'fadel' ]

@@ -1,0 +1,30 @@
+Problem Solving Patterns
+
+Banyak pattern dalam
+Jika disebut pattern agak kurang tepat juga. Maka nama lainya
+bisa disebut mekanisme algoritma atau blueprint
+
+- Frequency Counter
+- Multiple Pointer
+- Sliding Windows
+- Divide And Conquer
+- Dynamic Programming
+- Greedy Algoritm
+- Backtracking
+
+1. Frequency Counter
+- Pola ini menggunakan object atau mengkoleksi/mengumpulkan 
+frekuensi/jumlah dari suatu value(nilai)
+* Intinya sih menghitung suatu nilai menggunakan objek
+- Fungsinya mencegah nested loops atau O(N^2) menggunakan
+arrays/strings
+- Biasanya untuk membandingkan data apakah dia anak kesaamaan
+dari setiap data. Dan bisa menghitung banyaknya kesaamaan
+
+Example--> VSCode
+Write a function called same, which accepts two arrays.
+The function should return true if every value in the array has 
+it's corresponding value squared
+in the second array. 
+The frequency of values must be the same.
+

@@ -1,0 +1,6 @@
+Algoritma
+
+Have to practice
+-indexOf
+-Nested Loop
+-Splice
